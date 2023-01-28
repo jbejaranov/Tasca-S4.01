@@ -11,8 +11,6 @@ Nivell 1
 Exercici Spring i Maven
 Aquest exercici és un primer contacte amb Spring i Maven.
 
-Accedeix a la pàgina ->https://start.spring.io/, i genera un projecte Spring boot amb les següents característiques:
-
 | Característiques |
 | :---: |
 | PROJECT (gestor de dependències) |
@@ -38,3 +36,8 @@ Accedeix a la pàgina ->https://start.spring.io/, i genera un projecte Spring bo
 | Jar |
 | JAVA |
 | Mínim versió 11 | 
+
+| Dependències |
+| :---: |
+| Spring Boot DevTools |
+| Spring Web |
