@@ -16,8 +16,8 @@ Accedeix a la pàgina ->https://start.spring.io/, i genera un projecte Spring bo
 
 | First Header  |
 | ------------- |
-| Content Cell  |
-| Content Cell  |
-| Content Cell  |
-| Content Cell  |
-| Content Cell  |
+| PROJECT (gestor de dependències) |
+| Maven  |
+| LANGUAGE |
+| Java |
+| SPRING BOOT |
