@@ -13,6 +13,8 @@ Aquest exercici és un primer contacte amb Spring i Maven.
 
 Accedeix a la pàgina ->https://start.spring.io/, i genera un projecte Spring boot amb les següents característiques:
 
+| característiques |
+| ------------- |
 | PROJECT (gestor de dependències) |
 | Maven  |
 | LANGUAGE |
