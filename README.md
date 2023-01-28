@@ -14,7 +14,7 @@ Aquest exercici és un primer contacte amb Spring i Maven.
 Accedeix a la pàgina ->https://start.spring.io/, i genera un projecte Spring boot amb les següents característiques:
 
 
-| First Header  | Second Header |
-| ------------- | ------------- |
-| Content Cell  | Content Cell  |
-| Content Cell  | Content Cell  |
+| First Header  |
+| ------------- |
+| Content Cell  |
+| Content Cell  |
