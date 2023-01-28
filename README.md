@@ -13,10 +13,28 @@ Aquest exercici és un primer contacte amb Spring i Maven.
 
 Accedeix a la pàgina ->https://start.spring.io/, i genera un projecte Spring boot amb les següents característiques:
 
-| característiques |
+| Característiques |
 | :---: |
 | PROJECT (gestor de dependències) |
 | Maven  |
 | LANGUAGE |
 | Java |
 | SPRING BOOT |
+| La darrera versió estable |
+
+| PROJECT METADATA |
+| :---: |
+| Group |
+| cat.itacademy.barcelonactiva.cognoms.nom.s04.t01.n01 |
+| Artifact |
+| S04T01N01GognomsNom |
+| Name |
+| S04T01N01GognomsNom |
+| Description |
+| S04T01N01GognomsNom |
+| Package name |
+| cat.itacademy.barcelonactiva.cognoms.nom.s04.t01.n01 |
+| PACKAGIN |
+| Jar |
+| JAVA |
+| Mínim versió 11 | 
